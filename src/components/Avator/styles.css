@@ -1,0 +1,49 @@
+.Avator img {
+  width: 150px;
+  height: 150px;
+  margin-top: -60px;
+  border-radius: 50%;
+  border: 5px solid #fff;
+  box-shadow: 0 5px 10px rgba(0,0,0,.1);
+  overflow: hidden;
+}
+
+.Avator h1{
+  font-size: 2rem;
+}
+
+.AvatorCenter {
+  margin-top: 40px;
+  font-size: 20px;
+}
+.content{
+  margin-top: -10px;
+  margin-left: -30px;
+}
+.content img{
+  width:30px;
+  height:30px;
+  border:none;
+  line-height: 30px;
+  margin:0;
+  color:#7e7e7e;
+}
+
+.arrow{
+  position:absolute;
+  font-weight: bold;
+  color:#7e7e7e;
+  margin-top: 120px;
+  animation: move 2s infinite ease-in-out;
+}
+@keyframes move{
+  0%{
+      transform: translateY(0px);
+  }
+  50%{
+      transform: translateY(5px);
+  }
+  100%{
+    transform: translateY(0px);
+  }
+}
