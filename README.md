@@ -4,10 +4,10 @@
 * 性别：男
 
 ## 项目经验
-* [LeetCode 217 题](https://leetcode.com/suweiok/)
-* [实现了 90% Lodash 函数](https://github.com/mynameissuwei/suwei-lodash/blob/master/suwei-lodash.js)
-* [React Router + Redux + Express + Mongodb 开发的高颜值实时聊天招聘APP](http://suwei.life:8090/)
-* [纯正商业级应用-微信小程序](https://github.com/mynameissuwei/life-miniProgram)(打开微信小程序搜索suwei即可查询)
+* [仿简书项目](https://github.com/cliYao/cliYao_jianshu_react)
+* [Pixel-Painter](https://github.com/cliYao/Pixel-Painter)
+* [实现了 90% Lodash 函数](https://github.com/cliYao/Lodash-Exercise/blob/master/Lodash-Exercise.js)
+* [LeetCode 215 题](https://leetcode.com/cliyao/)
 
 
 ## 技能树
@@ -34,50 +34,33 @@
   * 熟练使用 DevTools 进行开发和调试 
   * 了解 Webpack 的原理，了解前端工程化工具 
   * 了解前端性能优化 
-  * 具备基本的 Web 安全知识（SQL 注入 / XSS / CSRF / CSP 等） 
+  * 具备基本的 Web 安全知识（ XSS / CSRF / CSP 等） 
   * 能够使用 Git 进行版本控制 
 
 * 计算机基础
 
-  *	熟悉常用的数据结构与算法(链表，树，堆，DP等)
-  *	了解计算机网络的基本原理 
-  *	熟悉 HTTP 协议的机制、常见首部及缓存方式 
-  *	熟悉基础的编码知识如 Base64、UTF-8 的表示等 
-  *	了解数据库及 SQL 语言的使用，理解数据库系统的基本概念 
+  * 熟悉常用的数据结构与算法(链表，树，堆，DP等)
+  * 了解计算机网络的基本原理 
+  * 熟悉 HTTP 协议的机制、常见首部及缓存方式 
+  * 熟悉基础的编码知识如 Base64、UTF-8 的表示等 
+  * 了解数据库及 SQL 语言的使用，理解数据库系统的基本概念 
 
 * 英语
   
-  * 大学英语6级(CET-6)
+  * 大学英语4级(CET-4)
   * 熟练阅读英语相关技术文档
-  * 口语能力出色, 和外国人熟练沟通无压力
 
 ## 我的书单
 
 * 《CSS 权威指南》
 * 《The Book Of CSS3》
-* 《CSS 揭秘》
 * 《DOM 编程艺术》
 * 《Eloquent JavaScript》
 * 《Javascript 高级程序设计》
 
 ## 自我评价
 
-* 热爱互联网，喜欢新潮科技，对一切事物拥有强烈的好奇心 
-* 有良好的编码习惯，持续关注前端领域的新技术 
-* 热爱运动, 性格乐观开朗
-
-## 工作经历
-
-* A.P.穆勒-马士基集团(2017.9-2018.5)
-  * Deck Cadet
-  * 职责 1、负责甲板，驾驶台的维护
-  2、修复设备上问题
-  3、完成上级领导安排的其他任务
-
-* 杭州大喵科技有限公司(2018.6-2018.11)
-  * 前端开发工程师 
-  * 职责：1、负责编码，个人功能模块的测试
-  2、修复程序BUG
-  3、完成上级领导安排的其他任务
+* 对前端有较强的学习热情，能够保持持续专注的学习习惯 
+* 热爱健身运动，充沛的精神可以让工作，生活，学习的状态更佳
 
 
