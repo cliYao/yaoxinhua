@@ -2,6 +2,8 @@
 
 * 姓名：姚新华
 * 性别：男
+* 年龄：27岁
+* 毕业院校：重庆邮电大学/电子商务
 
 ## 项目经验
 * [仿简书项目](https://github.com/cliYao/cliYao_jianshu_react)
@@ -24,9 +26,7 @@
   * 通读《Eloquent JavaScript》
   * 熟悉原生 JavaScript，理解原型、闭包、高阶、异步等概念 
   * 熟悉 ES6 的新特性，包括但不限于新的语法糖、类与对象、Generator、Promise、await/async 等 
-  * 熟悉 DOM、BOM 原生 API，熟悉 jQuery API 
-  * 了解 Node.js，了解 Express，了解其中间件机制，能够搭建简单的网站 
-  * 熟悉 Vue 的使用，了解 Vue 的部分原理，了解 Vue-Router 和 Vuex 
+  * 熟悉 DOM、BOM 原生 API 
   * 熟悉 React 使用，了解 React 部分原理，了解 React-Router 和 Redux 
 
 * 前端工程化
@@ -39,11 +39,10 @@
 
 * 计算机基础
 
-  * 熟悉常用的数据结构与算法(链表，树，堆，DP等)
+  * 熟悉常用的数据结构与算法(链表，树，堆等)
   * 了解计算机网络的基本原理 
   * 熟悉 HTTP 协议的机制、常见首部及缓存方式 
   * 熟悉基础的编码知识如 Base64、UTF-8 的表示等 
-  * 了解数据库及 SQL 语言的使用，理解数据库系统的基本概念 
 
 * 英语
   
